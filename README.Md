@@ -11,7 +11,8 @@ Repetition: loops in which pointers move across an array (field) of data items.
 Compilation tested with Digital Mars Compiler and tdm-gcc.
 
 ### Output
-
+If the package is too heavy and too big:
+![Picture1](https://i.imgur.com/AozXHJM.png)
 
 ### Credits:
 Big to my classmates that motivated me to program this, altough I do not see much purpose in a porgram like this.
