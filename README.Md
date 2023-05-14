@@ -10,5 +10,8 @@ Repetition: loops in which pointers move across an array (field) of data items.
 ### How to compile
 Compilation tested with Digital Mars Compiler and tdm-gcc.
 
+### Output
+
+
 ### Credits:
 Big to my classmates that motivated me to program this, altough I do not see much purpose in a porgram like this.
